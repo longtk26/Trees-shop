@@ -1,8 +1,3 @@
-/**
- *  Save and keep products
- *  Responsive
- */
-
 import * as constants from "./constants.js";
 import products from "./products.js";
 
